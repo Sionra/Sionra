@@ -1,4 +1,14 @@
-## Hi there 👋
+## Bonjour et bienvenue sur mon Github 👋
+
+Je m'appelle Raphaël, j'ai 26 ans et je suis en train d'éffectuer une formation RNCP de niveau 6 pour être **Déveolleupeur Full-Stack** afin d'amélriorer mes compétences en développement.
+
+## Mon parcours 🛣
+
+Au début j'ai suivis un cursus universitaire en faisant un DUT Informatique. Par la suite j'au suivis une POEC pour petre développeur ABAP SAP.
+
+Par la suite j'ai été Consultant fonctionelle et Développeur pendant 2ans.
+
+Et pour finir ma dernière expérience été en tant Ingénieur support Logiciel pour Ivalua.
 
 <!--
 **Sionra/Sionra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
