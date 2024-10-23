@@ -27,7 +27,7 @@ Et pour finir ma dernière expérience était en tant Ingénieur support Logicie
 Actuellement je suis une formation pour dévelloper mes compétence et d'explorer plus le monde du dev. Toujours curieux de tester et de voir des technologies.
 
 ## Compétences
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,angular,nodejs,spring,mysql,git,cs,py&perline=4)](https://sionra.github.io/index.html)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,angular,nodejs,spring,mysql,git,cs,py&perline=4)](https://github.com/Sionra)
 
 
 ## Quelques stats
