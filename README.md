@@ -23,7 +23,7 @@ En ce moment, je cherche une alternance en tant que développeur fullstack ou ba
     Une app web qui affiche la météo locale de la semaine en utilisant l'API d'open-meteo.com pour récupérer les données météo, des fichiers JSON pour les manipuler, et des icônes SVG. L'interface est conçue avec du vanilla JS et CSS. <br/>https://sionra.github.io/index.html
 2. La bataille navale
 
-    Un petit projet pour apprendre le C# et refaire le jeu de la bataille navale en C# utilisant uniquement la console.
+    Un jeu de bataille navale en C# qui s'affiche dans la console, où les joueurs placent et attaquent des navires sur une grille. Le jeu gère les interactions utilisateur, la validation des tirs, et affiche le statut des bateaux.
 
 
 ## Compétences
