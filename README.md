@@ -10,23 +10,21 @@ Ensuite, j’étais Développeur 3DX chez FMS-EA . J’ai optimisé des processu
 
 Enfin, en tant qu'Ingénieur Support Logiciel chez Ivalua, j'ai travaillé sur ma communication et mon écoute.
 
-<details>
-    <summary>Quelques Projets</summary>
-    
-1. La météo
-
-    Un site simple qui permet d'afficher la météo actuelle et les prévisions des 7 prochains jours. https://sionra.github.io/index.html
-2. La bataille navale
-
-    Un petit projet pour apprendre le C# et refaire le jeu de la bataille navale en C# utilisant uniquement la console.
-
-</details>
-
 ## Et maintenant
 
 Avec un Bac+2, je me suis vite rendu compte que mes opportunités en tant que développeur étaient limitées. J'ai donc décidé de reprendre mes études pour monter en compétences en développement web. 
 
 En ce moment, je cherche une alternance en tant que développeur fullstack ou backend. Pas forcément en Java ou C#, même si j'ai des bases solides dans ces langages. Toujours curieux de découvrir d’autres langages et technos !
+
+## Quelques Projets
+ 
+1. La météo
+
+    Une app web qui affiche la météo locale de la semaine en utilisant l'API d'open-meteo.com pour récupérer les données météo, des fichiers JSON pour les manipuler, et des icônes SVG. L'interface est conçue avec du vanilla JS et CSS. <br/>https://sionra.github.io/index.html
+2. La bataille navale
+
+    Un petit projet pour apprendre le C# et refaire le jeu de la bataille navale en C# utilisant uniquement la console.
+
 
 ## Compétences
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,angular,nodejs,spring,mysql,git,cs,py&perline=4)](https://github.com/Sionra)
