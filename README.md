@@ -24,7 +24,9 @@ Enfin, en tant qu'Ingénieur Support Logiciel chez Ivalua, j'ai travaillé sur m
 
 ## Et maintenant
 
-Actuellement je suis une formation pour dévelloper mes compétence et d'explorer plus le monde du dev. Toujours curieux de tester et de voir des technologies.
+Avec un Bac+2, je me suis vite rendu compte que mes opportunités en tant que développeur étaient limitées. J'ai donc décidé de reprendre mes études pour monter en compétences en développement web. 
+
+En ce moment, je cherche une alternance en tant que développeur fullstack ou backend. Pas forcément en Java ou C#, même si j'ai des bases solides dans ces langages. Toujours curieux de découvrir d’autres langages et technos !
 
 ## Compétences
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,angular,nodejs,spring,mysql,git,cs,py&perline=4)](https://github.com/Sionra)
