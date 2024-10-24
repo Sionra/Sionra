@@ -1,14 +1,14 @@
 # Bonjour et bienvenue sur mon Github 👋
 
-Je m'appelle Raphaël, j'ai 26 ans et je suis en train d'effectuer une formation RNCP de niveau 6 pour être **Développeur Full-Stack** afin d'améliorer mes compétences en développement logiciel.
+Je m'appelle Raphaël, j'ai 26 ans et je vis à Montpellier. Actuellement, je recherche une alternance Développeur Fullstack ou Backend dans le cadre de ma formation Concepteur Développeur d’Applications Java (bac +3/4, RNCP 6). Je suis très motivé et immédiatement disponible !
 
 ## Mon parcours 🛣
 
-Au début j'ai suivi un cursus universitaire en faisant un DUT Informatique. Par la suite j'ai suivi une POEC pour etre développeur ABAP SAP.
+Après mon DUT en Informatique, j'ai été Consultant SAP chez Ipanova. J’y ai développé des tableaux de bord et outils de suivi pour analyser les serveurs Airbus. 
 
-Par la suite j'ai été Consultant fonctionel et Développeur pendant 2ans.
+Ensuite, j’étais Développeur 3DX chez FMS-EA . J’ai optimisé des processus avec des scripts et amélioré la documentation, toujours pour Airbus.
 
-Et pour finir ma dernière expérience était en tant Ingénieur support Logiciel pour Ivalua.
+Enfin, en tant qu'Ingénieur Support Logiciel chez Ivalua, j'ai travaillé sur ma communication et mon écoute.
 
 <details>
     <summary>Quelques Projets</summary>
