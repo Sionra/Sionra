@@ -17,11 +17,15 @@ Avec un Bac+2, je me suis vite rendu compte que mes opportunités en tant que d�
 En ce moment, je cherche une alternance en tant que développeur fullstack ou backend. Pas forcément en Java ou C#, même si j'ai des bases solides dans ces langages. Toujours curieux de découvrir d’autres langages et technos !
 
 ## Quelques Projets
- 
-1. La météo
 
-    Une app web qui affiche la météo locale de la semaine en utilisant l'API d'open-meteo.com pour récupérer les données météo, des fichiers JSON pour les manipuler, et des icônes SVG. L'interface est conçue avec du vanilla JS et CSS. <br/>https://sionra.github.io/index.html
-2. La bataille navale
+1. Portfolio
+
+   Un site web portfolio dynamique et responsive, développé à partir d'un template Bootstrap et jQuery. Refonte complète de la section Portfolio : flexbox et overlays pour le design, filtres. Formulaire de contact fonctionnel grâce à Formspree.<br/>[sionra.github.io](https://sionra.github.io/index.html)
+ 
+2. La météo
+
+    Une app web qui affiche la météo locale de la semaine en utilisant l'API d'open-meteo.com pour récupérer les données météo, des fichiers JSON pour les manipuler, et des icônes SVG. L'interface est conçue avec du vanilla JS et CSS. <br/>https://sionra.github.io/weatherApp/index.html
+3. La bataille navale
 
     Un jeu de bataille navale en C# qui s'affiche dans la console, où les joueurs placent et attaquent des navires sur une grille. Le jeu gère les interactions utilisateur, la validation des tirs, et affiche le statut des bateaux.
 
